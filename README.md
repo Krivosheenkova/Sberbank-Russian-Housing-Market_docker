@@ -3,8 +3,11 @@ Flask applications on Docker for predicting real estate prices on the Russian ma
 
 #### Stack:
 ML: sklearn, pandas, numpy, xgboost
+
 API: Flask
+
 Platform: Docker
+
 Data: from kaggle - https://www.kaggle.com/c/sberbank-russian-housing-market
 
 #### Task: 
